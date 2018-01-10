@@ -5,7 +5,7 @@ casper.start('http://docs.casperjs.org/en/latest/quickstart.html', function () {
 });
 
 casper.thenOpen('https://en.wikipedia.org/wiki/PhantomJS', function () {
-  this.echo(this.getTitle());
+  this.echo(this.getHTML());
 });
 
 casper.run();
