@@ -1,3 +1,6 @@
+# Install phantomjs
+> npm i -g phantomjs
+
 # casperjs
 
 
