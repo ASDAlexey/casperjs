@@ -1,7 +1,12 @@
-# Install phantomjs
+# [Install PhantomJS](http://phantomjs.org/)
 > npm i -g phantomjs
 
-# casperjs
+> phantomjs -v
+
+# [Install CasperJS](http://docs.casperjs.org/en/latest/installation.html)
+> npm install -g casperjs
+
+> casperjs --version
 
 
 # Exec phantomjs from file
