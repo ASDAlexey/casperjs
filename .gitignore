@@ -43,5 +43,4 @@ Thumbs.db
 .tscache
 /ts-node-*
 .v8flags.*
-/server/configs/aws.config.json
-/server/configs/config.json
+bower_components
